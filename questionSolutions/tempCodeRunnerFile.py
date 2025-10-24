@@ -1,0 +1,18 @@
+s = {}
+name = input("Enter friends name :")
+language = input("Enter Language name :")
+s.update({name : language})
+name = input("Enter friends name :")
+language = input("Enter Language name :")
+s.update({name : language})
+name = input("Enter friends name :")
+language = input("Enter Language name :")
+s.update({name : language})
+name = input("Enter friends name :")
+language = input("Enter Language name :")
+s.update({name : language})
+name = input("Enter friends name :")
+language = input("Enter Language name :")
+s.update({name : language})
+
+print(s)
