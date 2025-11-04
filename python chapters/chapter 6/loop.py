@@ -93,3 +93,49 @@
 #         print("inner loop")
 #         j+=1
 # print("rest of code")        
+
+# for i in range(10,0,-1):
+#    print(i)
+
+# a = range(5)
+
+# print(a[0])
+# print(a[1])
+# print(a[2])
+# print(a[3])
+# print(a[4])
+
+
+# a = range(1,5)
+
+# print(a[0])
+# print(a[1])
+# print(a[2])
+# print(a[3])
+
+
+# a = range(1,10,2)
+
+# print(a[0])
+# print(a[1])
+# print(a[2])
+# print(a[3])
+# print(a[4])
+
+# a = range(-1,-10,-2)
+
+# print(a[0])
+# print(a[1])
+# print(a[2])
+# print(a[3])
+# print(a[4])
+
+
+l = [1,34,2,7,6,4]
+
+# for i in l:
+#     print(i)
+# 
+# a=range(5)
+for i in range(-1,-10,-2):
+    print(i)
