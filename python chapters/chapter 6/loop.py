@@ -94,7 +94,18 @@
 #         j+=1
 # print("rest of code")        
 
+# for i in range(1,10,2):
+#     print(i)
+
+
+# for i in range(-1,-10,-2):
+#    print(i)
+
 # for i in range(10,0,-1):
+#    print(i)
+
+
+# for i in range(10,0,-2):
 #    print(i)
 
 # a = range(5)
@@ -131,11 +142,61 @@
 # print(a[4])
 
 
-l = [1,34,2,7,6,4]
+# l = [1,34,2,7,6,4]
 
 # for i in l:
 #     print(i)
 # 
 # a=range(5)
-for i in range(-1,-10,-2):
+# for i in range(-1,-10,-2):
+#     print(i)
+
+
+
+# ? for loop with else
+
+# st = "gpmau"
+# for i in st:
+#    print(i)
+# else:
+#    print("else part")   
+
+
+#? nested for loop
+
+# for i in range(2):
+#     print("Outer loop",i)
+#     for j in range(3):
+#         print("inner loop",j)
+# print("rest of the code")        
+
+
+#?   break statmet
+
+# for i in range(10):
+#     if(i==5):
+#         break
+#     print(i)
+# print("rest of the code")
+
+ 
+# for i in range(10):
+#     if(i==5):
+#         continue
+#     print(i)
+# print("rest of the code")    
+ 
+
+# if 5>3:
+#     pass
+# else:
+#     print("else part")
+# print("rest of the code")    
+
+i= 1
+while(i<=10):
+    if(i==5):
+        pass
     print(i)
+    i+=1
+print("rest of the code")   
