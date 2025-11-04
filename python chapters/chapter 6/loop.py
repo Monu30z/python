@@ -60,8 +60,36 @@
 
 
 
-#?  break,continue and pass
-for i in range(100):
-        pass
+# #?  break,continue and pass
+# for i in range(100):
+#         pass
    
+# *?  whlie loop with else
+# a = 6
+# while a<=5:
+#         print(a)
+#         a+=1
+# else:
+#         print("else")
+# print("rest of the code")                
 
+#*? infinity loop
+# i =1
+# while(True):
+#     i+=1
+#     print(i)
+#     if(i==20):
+#         break
+# print("rest of the code")
+
+
+#*? Nested while loop
+# i=1
+# while(i<=3):
+#     print("outer while loop")
+#     i+=1
+#     j=1
+#     while(j<=5):
+#         print("inner loop")
+#         j+=1
+# print("rest of code")        
