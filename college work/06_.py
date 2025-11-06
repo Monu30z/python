@@ -41,13 +41,42 @@
 # disp()
 
 
-def disp():
-    def show():
-        return "show function"
+# def disp():
+#     def show():
+#         return "show function"
     
-    result = show() + "disp function" 
-    return result
+#     result = show() + "disp function" 
+#     return result
   
-a= disp()
-print(a)
+# a= disp()
+# print(a)
 
+
+#?   formal and actual parameter
+
+
+#?  Recursion
+
+
+# def myfun():
+#     print("gp mau")
+#     myfun()
+# myfun()    
+
+
+# def factorial(n):
+#     if n==0 or n==1:
+#         return 1
+#     else:
+#         return n*factorial(n-1)
+    
+# factorial(5)    
+
+
+# i = 0
+# def myfun():
+#     global i
+#     i=i+1
+#     print("my func",i)
+#     myfun()
+# myfun()    
