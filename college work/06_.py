@@ -80,3 +80,24 @@
 #     print("my func",i)
 #     myfun()
 # myfun()    
+
+
+
+#*  lambda function 
+
+# x = lambda a,b: (a+b , a-b)
+# c,d =x(10,20)
+# print(c , d) 
+
+
+#* <------------------------------->              
+# x = lambda a,b =20: (a+b , a-b)
+# c,d =x(10)
+# print(c , d) 
+
+# ?=================================
+x = lambda a=10,b =20: (a+b , a-b)
+c,d =x()
+print(c , d) 
+
+
