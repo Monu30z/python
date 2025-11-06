@@ -153,7 +153,7 @@
 
 
 
-# ? for loop with else
+# * for loop with else
 
 # st = "gpmau"
 # for i in st:
@@ -162,7 +162,7 @@
 #    print("else part")   
 
 
-#? nested for loop
+#* nested for loop
 
 # for i in range(2):
 #     print("Outer loop",i)
@@ -171,7 +171,7 @@
 # print("rest of the code")        
 
 
-#?   break statmet
+# *   break statmet
 
 # for i in range(10):
 #     if(i==5):
