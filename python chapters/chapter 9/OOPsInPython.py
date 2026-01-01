@@ -93,15 +93,15 @@
 # realme.show()
 
 
-class Mobile :
-    fb = "yes"
-    def __init__(self):
-        self.model = "realme"
-    def showModel(self):
-        print(self.model)
+# class Mobile :
+#     fb = "yes"
+#     def __init__(self):
+#         self.model = "realme"
+#     def showModel(self):
+#         print(self.model)
 
    
 
-realme = Mobile()
-realme.showModel()
-print(Mobile.fb)         
+# realme = Mobile()
+# realme.showModel()
+# print(Mobile.fb)         
