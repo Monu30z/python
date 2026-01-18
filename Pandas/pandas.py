@@ -26,7 +26,7 @@
 
 
 # importing required libraries
-import pandas as pd
+# import pandas as pd
 
 # reading the dataset
 # data = pd.read_csv(r"C:\Users\monus\OneDrive\Desktop\Python\basicOperators\Sample.csv")
@@ -35,7 +35,7 @@ import pandas as pd
 # viewing the first few rows using head()
 # print(data.head())
 
-martdata = pd.read_csv(r"C:\Users\monus\OneDrive\Desktop\Python\basicOperators\data.csv")
+# martdata = pd.read_csv(r"C:\Users\monus\OneDrive\Desktop\Python\basicOperators\data.csv")
 
 
 # viewing the first few rows using head()
@@ -56,12 +56,12 @@ martdata = pd.read_csv(r"C:\Users\monus\OneDrive\Desktop\Python\basicOperators\d
 
 
 # selecting  rows by their position
-print(martdata.iloc[:5])
+# print(martdata.iloc[:5])
 
 
 # selecting  columns by their position
-print(martdata.iloc[:,:2])
+# print(martdata.iloc[:,:2])
 
 
 # selecting rows by given condition
-print(martdata[martdata['Pclass']==1])
+# print(martdata[martdata['Pclass']==1])
